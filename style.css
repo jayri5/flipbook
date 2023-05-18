@@ -20,12 +20,12 @@ img{
 	display: flex;
 }
 #cover{
-	width: 250px;
-	height: 400px;
+	width: 550px;
+	height: 500px;
 }
 .flip-book{
-	width: 250px;
-	height: 400px;
+	width: 550px;
+	height: 500px;
 	position: relative;
 	perspective: 1500px;
 }
