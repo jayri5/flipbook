@@ -21,11 +21,11 @@ img{
 }
 #cover{
 	width: 550px;
-	height: 500px;
+	height: 600px;
 }
 .flip-book{
 	width: 550px;
-	height: 500px;
+	height: 600px;
 	position: relative;
 	perspective: 1500px;
 }
